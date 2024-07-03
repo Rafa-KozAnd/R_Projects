@@ -10,7 +10,7 @@
 # R_Projects
 
 - Project Name: 'R_Projects';
-- Languages: HTML/CSS;
+- Languages: R;
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: R Code Storage;
 - Obs: ;
